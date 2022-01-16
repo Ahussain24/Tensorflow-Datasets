@@ -1,4 +1,4 @@
-# Tensorflow-Datasets
+Introduction To Gradient Tape Using Fashion Mnist Dataset
 
 The beauty of TensorFlow is in its simplicity. Basically, all we need to do is implement forward propagation through a computational graph. TensorFlow will compute the derivatives for us, by moving backwards through the graph recorded with GradientTape. All that's left for  to do then, is specify the cost function and optimizers.
 
